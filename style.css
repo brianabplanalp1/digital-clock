@@ -1,0 +1,12 @@
+body {
+ background: #333;
+  color: white;
+}
+
+#clock {
+   display: inline;
+   margin-top: 10%;
+   font-size: 90px;
+   font-family: Baskerville, Georgia;
+   border-style: double;
+}
